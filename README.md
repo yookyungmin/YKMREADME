@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yoo%20KyungMin&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yoo%20KyungMin&fontSize=65&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <h2 align="center">Tech ✨</h2>
 <p align="center">
