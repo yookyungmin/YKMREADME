@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=Yoo%20KyungMin&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Yoo%20KyungMin&fontSize=80&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 <h2 align="center">Tech ✨</h2>
 <p align="center">
@@ -28,3 +28,4 @@
    <img src="https://img.shields.io/badge/ERD CLOUD-181717?style=flat-square&logo=ERD CLOUD&logoColor=white">
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykmykm4608@naver.com&show_icons=true&theme=radical)
