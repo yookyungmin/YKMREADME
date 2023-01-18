@@ -26,6 +26,9 @@
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
  <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
    <img src="https://img.shields.io/badge/ERD CLOUD-181717?style=flat-square&logo=ERD CLOUD&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
+ 
 </p>
 
 <br>
