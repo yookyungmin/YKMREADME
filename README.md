@@ -5,6 +5,9 @@
 <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ApacheTomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
+
 </br>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
