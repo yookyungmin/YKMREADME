@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SpringSecurity-6DB33F?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
 <img src="https://img.shields.io/badge/-ApacheTomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/>
 
@@ -13,7 +14,6 @@
 <img src="https://img.shields.io/badge/-JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Css3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </br>
 <img src="https://img.shields.io/badge/-ORACLE-F80000?style=flat-square&logo=ORACLE&logoColor=white"/>
  <img src="https://img.shields.io/badge/MYBATIS-181717?style=flat-square&logo=MYBATIS&logoColor=white">
